@@ -1,0 +1,18 @@
+2.重启nginx服务器查看nginx服务器是否能正常打开,
+Nginx status状态说明：
+Active connections: 35 对后端发起的活动链接数
+server accepts handled requests
+18627002 18627002 19496453
+Nginx 共处理了18627002个连接 成功创建了18627002次握手,总共处理19496453请求
+2.重启nginx服务器查看nginx服务器是否能正常打开,
+Nginx status状态说明：
+Active connections: 35 对后端发起的活动链接数
+server accepts handled requests
+18627002 18627002 19496453
+Nginx 共处理了18627002个连接 成功创建了18627002次握手,总共处理19496453请求
+2.重启nginx服务器查看nginx服务器是否能正常打开,
+Nginx status状态说明：
+Active connections: 35 对后端发起的活动链接数
+server accepts handled requests
+18627002 18627002 19496453
+Nginx 共处理了18627002个连接 成功创建了18627002次握手,总共处理19496453请求
